@@ -1,0 +1,30 @@
+# Build artifacts
+target/
+*.class
+*.jar
+*.war
+
+# Compressed files
+*.zip
+*.tar.gz
+
+# Data and resource files
+*.json
+*.csv
+*.xml
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+generated-sources/
+generated-test-sources/
+maven-status/
